@@ -1,36 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TV Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_panamericana_tv_2020_2.png"
-https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFu0NwDzKmavLJw2o5fLdDpumrQRkLY6mjzcNOIiolyMT)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
-
-#EXTINF:-1 tvg-id="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png"
-https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
-
-#EXTINF:-1 tvg-id="ATV +" tvg-logo="https://img2.freepng.es/20180706/kih/kisspng-peru-atv-noticias-logo-television-channel-logo-peru-5b3f012116fb15.6075066315308557130941.jpg"
-https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
-
-#EXTINF:-1 tvg-id="BHTV" tvg-logo="https://appnew.megainfoapp.com/files/1/bhtv.png"
-https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w395664325.m3u8
-
-#EXTINF:-1 tvg-id="Cultura 24 " tvg-logo="https://cultura24.tv/sites/default/files/inline-images/sponsor1.jpg"
-https://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w812844092_b964000_sles.m3u8
-
-#EXTINF:-1 tvg-id="Willax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png"
-https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmsm_IhC8msZpH7BbQ0J-TGGZdX2UAqeeYqammu1tMWJn)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
-
-#EXTINF:-1 tvg-id="Antares TV " tvg-logo="https://www.coolstreaming.us/img/ch/image88527916465.jpg"
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w54891748.m3u8
-
-#EXTINF:-1 tvg-id="Mega tv" tvg-logo="http://www.megatvarequipa.com/wp-content/uploads/2020/06/cropped-104684146_960970201020528_6006149684953973330_n-1-2.png"
-https://hls.servidor.stream/storage/megatv.m3u8
-
-#EXTINF:-1 tvg-id="Canal IPE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Canal_iPe.png/880px-Logo_Canal_iPe.png"
-https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
-
-#EXTINF:-1 tvg-id="Visión TV" tvg-logo="https://www.kindpng.com/picc/m/545-5454313_vision-tv-hd-png-download.png"
-https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w718211940.m3u8
-
-#EXTINF:-1 tvg-id="SOL TV Trujillo" tvg-logo="DIRECCION DE LOGO PNG"
-https://video.flim20-1.fna.fbcdn.net/hvideo-ncg-ldc/_nc_cat-103/_nc_sr_t-4/v/rseXUaeaZbUBrtiVlf015/_nc_ohc-QueM2WVrJl4AX97lgDj/live-dash/dash-lp-pst-v/8877619095589324_0-init.m4v?ms=m_CL&ccb=2-4&e_cfg=eyJtYXJrX3Bhc3N0aHJvdWdoX2FzX3VsbCI6MX0&sc_t=1
-
-#EXTINF:-1 tvg-id="TV Cosmos Perú" tvg-logo="DIRECCION DE LOGO PNG"
-https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1581471290.m3u8
+#EXTINF:-1 , tvg-id="partido" 
+https://dtvott-abc.akamaized.net/dash_live_1156/dash/1156_LA_TV_PUBLICA-audio_72882_spa=72400.dash
